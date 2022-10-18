@@ -1,2 +1,3 @@
 streamlit_card
 gspread
+oauth2client
